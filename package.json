@@ -1,0 +1,13 @@
+{
+  "name": "devsecops-app",
+  "version": "1.0.0",
+  "description": "Simple Express API for DevSecOps Assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/app.test.js"
+  },
+  "dependencies": {
+    "express": "4.19.2"
+  }
+}
